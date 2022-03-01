@@ -1,0 +1,26 @@
+[
+  {
+    "name": "beer",
+    "producerName": "Revision",
+    "beverageName": "Sparkle Muffin",
+    "beverageColor": "#FFDC67",
+    "beverageStyle": "New England IPA",
+    "producerLocation": "Sparks, NV",
+    "abv": 7,
+    "ibu": 30,
+    "logo": "https://s3.amazonaws.com/digitalpourproducerlogos/58813a565e002c0f185bd0e5.png",
+    "level": 27.027027027027028
+  },
+  {
+    "name": "beer",
+    "producerName": "Breakside",
+    "beverageName": "What Rough Beast",
+    "beverageColor": "#FFE699",
+    "beverageStyle": "Hazy IPA",
+    "producerLocation": "Portland, OR",
+    "abv": 7,
+    "ibu": 55,
+    "logo": "https://s3.amazonaws.com/digitalpourbeveragelogos/58c1b2255e002c0658f1ebc7.png",
+    "level": 72.97297297297297
+  }
+]
