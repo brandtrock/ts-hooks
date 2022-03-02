@@ -6,8 +6,11 @@
  *
  * USES THE In Memory Database, Factory Pattern, Singleton Pattern, Observer Pattern,
  * Visitor Pattern and Strategy Pattern For This Example
+ *
+ * Also uses loader.ts and data.json
  */
 
+// Adapter
 import { RecordHandler, loader } from "./loader";
 
 // Observer
